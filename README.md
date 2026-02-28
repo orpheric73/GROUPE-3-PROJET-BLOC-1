@@ -38,10 +38,11 @@ GROUPE-3-PROJET-BLOC-1/
 - Mise en Page
   - Utilisation de Flexbox
   - Responsive design desktop-first
-  - Breakpoint principal : 768px
+  - Principaux Breakpoint:
+      - 992px(Tablette)
+      - 576px(Mobile)
   - Design & Branding
   - Couleurs principales : Noir (#000) & Doré (#FFD700)
-  - Luminosité optimisé pour la lisibilité
 ## 🧠 Compétences Développées
 - Structuration HTML professionnelle
 - Maîtrise de CSS et Flexbox
