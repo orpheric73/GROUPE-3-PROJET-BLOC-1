@@ -1,5 +1,5 @@
 # 💎 LUXEORA Fashion House – Homepage 
-<p style="align=center"><img src="LUXEORA-homepage/assets/logo/logo.jpeg" alt="LOGO LUXEORA"</p>
+<p align="center"><img src="LUXEORA-homepage/assets/logo/logo.jpeg" alt="LOGO LUXEORA" width=400px</p>
   
 ## 🚀 Présentation du projet
 LUXEORA Fashion House est une boutique de mode haut de gamme spécialisée dans les collections Homme et Femme.
@@ -26,8 +26,8 @@ GROUPE-3-PROJET-BLOC-1/
 │       ├── index.html
 │       ├── style.css
 │       └── assets/
-│           ├── images/
-│           └── logo/
+│           ├── images
+│           └── logo
 ├── README.md
 └── Rapport-bloc-1.pdf
    ```
