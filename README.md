@@ -31,6 +31,28 @@ GROUPE-3-PROJET-BLOC-1/
 ├── README.md
 └── Rapport-bloc-1.pdf
    ```
+## 🛠️ Compilation 
+1. Cloner avec Git
+Bash
+```
+git clone https://github.com/orpheric73/GROUPE-3-PROJET-BLOC-1.git
+```
+```
+cd GROUPE-3-PROJET-BLOC-1
+```
+```
+cd LUXEORA-homepage
+```
+```
+cat index.html
+```
+2. Télécharger en ZIP
+- Cliquer sur le bouton Code
+- Sélectionner Download ZIP
+- Extraire le dossier sur votre ordinateur
+- Assurez-vous de ne pas modifier cette structure pour éviter les erreurs de chemins.
+- Lancer le projet
+Ouvrir simplement le fichier : index.html
 ## ⚙️ Choix Techniques et Design
 - HTML sémantique : *header*, *section*, *footer*.
 - Séparation claire structure / style
