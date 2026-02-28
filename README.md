@@ -1,5 +1,6 @@
 # 💎 LUXEORA Fashion House – Homepage 
-
+<p style="align=center"><img src="LUXEORA-homepage/assets/logo/logo.jpeg" alt="LOGO LUXEORA"</p>
+  
 ## 🚀 Présentation du projet
 LUXEORA Fashion House est une boutique de mode haut de gamme spécialisée dans les collections Homme et Femme.
 Ce projet consiste à concevoir une page d’accueil professionnelle, moderne et responsive.
@@ -18,14 +19,17 @@ L’entreprise fait face à plusieurs défis :
 - Media Queries (responsive design)
 ## 📂 Structure du Dépôt
   ```
-/luxeora-homepage
-│
-├── index.html
-├── style.css
-├── assets/
-│   ├── images/
-│   └── logo/
-└── README.md
+GROUPE-3-PROJET-BLOC-1/
+├──PRESENTATION.pptx
+├──RAPPORT.pdf
+├──LUXEORA-homepage/
+│       ├── index.html
+│       ├── style.css
+│       ├── assets/
+│       │   ├── images/
+│       │   └── logo/
+│       └── README.md
+└──Rapport-bloc-1.pdf
    ```
 ## ⚙️ Choix Techniques et Design
 - HTML sémantique : *header*, *section*, *footer*.
