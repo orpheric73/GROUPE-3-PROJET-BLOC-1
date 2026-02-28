@@ -20,16 +20,16 @@ L’entreprise fait face à plusieurs défis :
 ## 📂 Structure du Dépôt
   ```
 GROUPE-3-PROJET-BLOC-1/
-├──PRESENTATION.pptx
-├──RAPPORT.pdf
-├──LUXEORA-homepage/
+├── PRESENTATION.pptx
+├── RAPPORT.pdf
+├── LUXEORA-homepage/
 │       ├── index.html
 │       ├── style.css
-│       ├── assets/
-│       │   ├── images/
-│       │   └── logo/
-│       └── README.md
-└──Rapport-bloc-1.pdf
+│       └── assets/
+│           ├── images/
+│           └── logo/
+├── README.md
+└── Rapport-bloc-1.pdf
    ```
 ## ⚙️ Choix Techniques et Design
 - HTML sémantique : *header*, *section*, *footer*.
